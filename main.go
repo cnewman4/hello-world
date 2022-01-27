@@ -1,9 +1,10 @@
-package main
+package main 
 
-import(
-	"fmt"
-)
+// Courtney Newman 
+// Assignment 1.2 hello world 
 
-func main() {
-	fmt.Println("hello world\n")
-}
+import "fmt" 
+
+func main() { 
+	  fmt.Printf("Hello Wonderful 可笑 幽默 白痴 World\n") 
+  } 
